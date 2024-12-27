@@ -6,3 +6,5 @@ gunicorn==20.1.0
 
 # PyTorch for deep learning models (make sure it's compatible with your environment)
 torch==2.2.0
+
+werkzeug==2.2.3
